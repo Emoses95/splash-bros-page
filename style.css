@@ -1,7 +1,85 @@
-*   {
-    font-family: sans-serif;
-}
 
 body {
-    background:blue
+    font-family: Arial, sans-serif;
+    background-image: url('https://preview.redd.it/wallpaper-of-steph-for-those-who-want-it-design-based-off-v0-ihte0gy78aya1.jpg?width=1080&crop=smart&auto=webp&s=84d3c0a4862306204f05c4fd956fd4d0c9432bae');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color:#ffffff;
+    text-shadow: 2px 2px 4px #000000;
 }
+
+section {
+    padding: 20px
+
+}
+
+h1, h2 {
+    color: #ffd700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+p {
+    line-height: 1.6;
+    font-size: 1.1em;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.hero-image {
+    width: 500px;
+    height: 500px;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px;
+    color: #ffff00;
+    font-size: 1.2em;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.subscribe-form {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.subscribe-form input[type="email"] {
+    padding: 10px;
+   font-size: 1em;
+   border: none;
+   border-radius: 5px;
+   width: 200px;
+   text-align: center;
+}
+
+.subscribe-form button {
+    background-color: #ffd700;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1 em;
+    align-items: center;
+}
+
+.subscribe-form button:hover {
+    background-color: #ffff00;
+}
+  
+
