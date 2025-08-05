@@ -17,6 +17,10 @@ This project showcases an energetic, visually appealing layout that celebrates t
   <a href="https://emoses95.github.io/splash-bros-page/" target="_blank"><strong>🚀 View Live Site Here</strong></a>
 </p>
 
+![Splash Bros 1](./assets/splashbros-1.png)
+
+![Splash Bros 2](./assets/splashbros-2.png)
+
 ![Splash Bros](images/images/024/781/397/large/eder-sirius-arena1-6aee5e47fa0c053f555e-warriors-splashbro.jpg?1583508116)
 
 > _Stephen Curry and Klay Thompson wearing Golden State Warriors jerseys stand side by side on a basketball court, holding hands in front of a stylized yellow bridge and a cheering crowd. The image includes the phrases “Strength in Numbers” and “Splash Bros,” along with the NBA logo._
